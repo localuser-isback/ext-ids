@@ -1,0 +1,2 @@
+Gopher = cgbbbjmgdpnifijconhamggjehlamcif
+Light = chrome-extension://adkcpkpghahmbopkjchobieckeoaoeem/relay_license.txt
